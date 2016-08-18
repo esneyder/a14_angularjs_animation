@@ -1,0 +1,16 @@
+ng-show http://www.w3schools.com/angular/ng_ng-show.asp
+ng-show https://docs.angularjs.org/api/ng/directive/ngShow
+
+ng-hide http://www.w3schools.com/angular/ng_ng-hide.asp
+
+ng-class https://docs.angularjs.org/api/ng/directive/ngClass
+ng-class http://www.w3schools.com/angular/ng_ng-class.asp
+
+ng-if https://docs.angularjs.org/api/ng/directive/ngIf
+ng-if http://www.w3schools.com/angular/ng_ng-if.asp
+
+ng-switch https://docs.angularjs.org/api/ng/directive/ngSwitch
+ng-switch http://www.w3schools.com/angular/ng_ng-switch.asp
+
+ng-move http://www.nganimate.org/angularjs/ng-repeat/move
+ng-enter http://fiddle.jshell.net/lsconyer/bktpzgre/1/light/
