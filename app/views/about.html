@@ -1,0 +1,35 @@
+<hr>
+<div class="marketing container">
+
+	<div class="jumbotron">
+		<h3>
+			{{tema}}
+		</h3>
+		<hr/>
+		<h4 class="tema">
+			Curso:
+			<strong>
+				{{curso}}
+			</strong>
+		</h4>
+		<hr/>
+		<p class="autor">
+			Autor : {{autor.nombres}}, <span ng-bind="autor.apellidos"></span>
+		</p>
+		<p class="autor">
+			Email : {{autor.email}}
+		</p>
+		<p class="autor">
+			Blog:
+			<a href="{{autor.blog}}">
+				{{autor.blog}}
+			</a>
+		</p>
+		<p class="autor">
+			Web:
+			<a href="{{autor.web}}">
+				{{autor.web}}
+			</a>
+		</p>
+	</div>	​​
+</div>

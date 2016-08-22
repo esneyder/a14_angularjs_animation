@@ -1,0 +1,19 @@
+<hr/>
+<div class="container well">
+
+  <h4 ng-class="{strike: deleted, bold: important, 'has-error': error}">
+    Texto de prueba
+  </h4>
+  <label>
+    <input type="checkbox" ng-model="deleted">
+    deleted (aplica "strike" class)
+  </label><br>
+  <label>
+     <input type="checkbox" ng-model="important">
+     important (aplica "bold" class)
+  </label><br>
+  <label>
+     <input type="checkbox" ng-model="error">
+     error (aplica "has-error" class)
+  </label>
+</div>
