@@ -27,6 +27,10 @@ angular
         templateUrl: 'views/animate.html',
         controller: 'AnimateCtrl'
       })
+      .when('/show', {
+        templateUrl: 'views/show.html',
+        controller: 'ShowCtrl'
+      })
       .when('/about', {
         templateUrl: 'views/about.html',
         controller: 'AboutCtrl'
