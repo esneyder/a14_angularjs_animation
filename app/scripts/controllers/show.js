@@ -10,6 +10,6 @@
 angular.module('adminApp')
   .controller('ShowCtrl', function ($scope) {
     activeMenu('show');
-    $scope.myVar=true;
+    $scope.check=true;
 
   });
